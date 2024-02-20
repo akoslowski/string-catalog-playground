@@ -30,7 +30,7 @@
 |SwiftUI previews|Do SwiftUI previews automatically reflect the current locale from environment?|
 |UIKit|Do UIKit symbols come with an interface?|
 |Key Access|Can the raw key be accessed, e.g. in tests?|
-|Parameters|Are parameters for choosing `comment`, `table`, `bundle` for the key available?|
+|Parameters|Are parameters for choosing `comment`, `table`, `bundle` available?|
 
 - ⚠️ Some types can and need to be converted into `String` before using them in `UIKit`, or `SwiftUI`
     - `String(localized resource: LocalizedStringValue)`
