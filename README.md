@@ -26,7 +26,7 @@
 |Type|The type to store a localizable key|
 |SC compatible|The string catalog is automatically finding the specified keys in the project|
 |SwiftUI|Do SwiftUI symbols come with an interface?|
-|SwiftUI previews|Do SwiftUI previews automatically reflect the set locale?|
+|SwiftUI previews|Do SwiftUI previews automatically reflect the current locale from environment?|
 |UIKit|Do UIKit symbols come with an interface?|
 |Key Access|Can the raw key be accessed, e.g. in tests|
 |Parameters|Are parameters for choosing `comment`, `table`, `bundle` for the key available?|
@@ -34,3 +34,9 @@
 - ⚠️ Some types can and need to be converted into `String` before using them in `UIKit`, or `SwiftUI`
     - `String(localized resource: LocalizedStringValue)`
     - `String(localized resource: LocalizedStringResource)`
+
+## App vs. Preview
+
+|App|SwiftUI preview|
+|:-:|:-:|
+|![](Resources/app.png)|![](Resources/preview.png)|
