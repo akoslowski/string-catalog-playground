@@ -5,6 +5,7 @@
 - [Localizing and varying text with a string catalog](https://developer.apple.com/documentation/xcode/localizing-and-varying-text-with-a-string-catalog)
 - [Discover String Catalogs](https://developer.apple.com/videos/play/wwdc2023/10155)
 - [Editing XLIFF and string catalog files](https://developer.apple.com/documentation/xcode/editing-xliff-and-string-catalog-files)
+- [`LocalizedStringResource`](https://developer.apple.com/documentation/foundation/localizedstringresource)
 
 ## Traits
 
