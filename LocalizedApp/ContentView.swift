@@ -85,7 +85,7 @@ struct Examples {
 
 private extension String {
     var localized: Self {
-        String(localized: LocalizedStringResource(stringLiteral: self))
+        Swift.String(localized: Foundation.LocalizedStringResource(stringLiteral: self))
     }
 }
 
