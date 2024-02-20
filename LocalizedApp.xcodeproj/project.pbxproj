@@ -11,6 +11,7 @@
 		0F0AAC402B84B124009EBA94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F0AAC3F2B84B124009EBA94 /* ContentView.swift */; };
 		0F0AAC422B84B126009EBA94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F0AAC412B84B126009EBA94 /* Assets.xcassets */; };
 		0F0AAC452B84B126009EBA94 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F0AAC442B84B126009EBA94 /* Preview Assets.xcassets */; };
+		0F0AAC4C2B84B140009EBA94 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 0F0AAC4B2B84B140009EBA94 /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,8 @@
 		0F0AAC3F2B84B124009EBA94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0F0AAC412B84B126009EBA94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F0AAC442B84B126009EBA94 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0F0AAC4B2B84B140009EBA94 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		0F0AAC4D2B84CB8F009EBA94 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +38,7 @@
 		0F0AAC312B84B124009EBA94 = {
 			isa = PBXGroup;
 			children = (
+				0F0AAC4D2B84CB8F009EBA94 /* README.md */,
 				0F0AAC3C2B84B124009EBA94 /* LocalizedApp */,
 				0F0AAC3B2B84B124009EBA94 /* Products */,
 			);
@@ -53,6 +57,7 @@
 			children = (
 				0F0AAC3D2B84B124009EBA94 /* LocalizedAppApp.swift */,
 				0F0AAC3F2B84B124009EBA94 /* ContentView.swift */,
+				0F0AAC4B2B84B140009EBA94 /* Localizable.xcstrings */,
 				0F0AAC412B84B126009EBA94 /* Assets.xcassets */,
 				0F0AAC432B84B126009EBA94 /* Preview Content */,
 			);
@@ -109,6 +114,7 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
 			);
 			mainGroup = 0F0AAC312B84B124009EBA94;
 			productRefGroup = 0F0AAC3B2B84B124009EBA94 /* Products */;
@@ -127,6 +133,7 @@
 			files = (
 				0F0AAC452B84B126009EBA94 /* Preview Assets.xcassets in Resources */,
 				0F0AAC422B84B126009EBA94 /* Assets.xcassets in Resources */,
+				0F0AAC4C2B84B140009EBA94 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

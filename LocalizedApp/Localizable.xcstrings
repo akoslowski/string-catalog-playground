@@ -1,0 +1,70 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Hello Ali" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guten Tag Ali"
+          }
+        }
+      }
+    },
+    "Hello Boa" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guten Tag Boa"
+          }
+        }
+      }
+    },
+    "Hello Cecil" : {
+      "comment" : "A short greeting",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guten Tag Cecil"
+          }
+        }
+      }
+    },
+    "Hello Dori" : {
+      "comment" : "A short greeting",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guten Tag Dori"
+          }
+        }
+      }
+    },
+    "Hello Fred" : {
+      "comment" : "A short greeting",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guten Tag Fred"
+          }
+        }
+      }
+    },
+    "Hello Hero" : {
+      "comment" : "A short greeting",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guten Tag Hero"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
