@@ -1,5 +1,7 @@
 #  Localization with String Catalogs
 
+This project provides an iOS app with a string catalog for managing localizable strings. It is supposed to show options of how to store localizable keys so that a string catalog can automatically manage them.
+
 ## Resources
 
 - [Localizing and varying text with a string catalog](https://developer.apple.com/documentation/xcode/localizing-and-varying-text-with-a-string-catalog)
