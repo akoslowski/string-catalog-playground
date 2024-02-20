@@ -13,13 +13,13 @@ This project provides an iOS app with a string catalog for managing localizable 
 
 |ID|Type|SC compatible|SwiftUI|SwiftUI previews|UIKit|Key Access|Parameters|
 |:-:|---|:-:|:-:|:-:|:-:|:-:|:-:|
-|a|`Swift.String.LocalizationValue`    |✅|✅⚠️|❌|✅⚠️|❌|❌|
-|b|`SwiftUI.LocalizedStringKey`        |✅|✅  |✅|❌  |❌|❌|
-|c|`Foundation.LocalizedStringResource`|✅|✅  |✅|✅⚠️|✅|✅|
-|d|`SwiftUI.Text`                      |✅|✅  |✅|❌  |❌|✅|
-|f|`Foundation.NSLocalizedString`      |✅|✅  |❌|✅  |❌|✅|
-|g|`Swift.String` extension            |❌|✅  |❌|✅  |❌|❌|
-|h|`Swift.String(localized:)`          |✅|✅  |❌|✅  |❌|✅|
+|a|`Swift.String.LocalizationValue`    |✅|⚠️|❌|⚠️|❌|❌|
+|b|`SwiftUI.LocalizedStringKey`        |✅|✅|✅|❌|❌|❌|
+|c|`Foundation.LocalizedStringResource`|✅|✅|✅|⚠️|✅|✅|
+|d|`SwiftUI.Text`                      |✅|✅|✅|❌|❌|✅|
+|f|`Foundation.NSLocalizedString`      |✅|✅|❌|✅|❌|✅|
+|g|`Swift.String` extension            |❌|✅|❌|✅|❌|❌|
+|h|`Swift.String(localized:)`          |✅|✅|❌|✅|❌|✅|
 
 
 ### Legend
